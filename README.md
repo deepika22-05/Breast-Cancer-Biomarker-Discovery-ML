@@ -43,24 +43,30 @@ This project aims to identify prognostic breast cancer biomarkers using machine 
 ## Visualizations
 
 ### Volcano Plot
-![Volcano Plot](images/VolcanoPlot.png)
+![Volcano Plot](images/volcano.png)
 
 ### Heatmap
-![Heatmap](images/Heatmap.png)
+![Heatmap](images/heatmap.png)
 
 ### PCA Plot
 ![PCA](images/PCA_plot.png)
 
 ### ROC Curve
-![ROC](images/ROC_curve.png)
+![ROC](images/ROC_curve(2).png)
 
 ### STRING Network
-![STRING](images/STRING.png)
+![STRING](images/string network.jpeg)
 
 ### Kaplan-Meier Analysis
 ![RFC3](images/RFC3_KM.png)
 ![MASP2](images/MASP2_KM.png)
 ![PROM2](images/PROM2_KM.png)
+
+## Complete Analysis Notebook
+
+The complete workflow including preprocessing, machine learning, enrichment analysis, and survival analysis is available here:
+
+[Open Notebook](notebooks/Breast_Cancer_Biomarker_Discovery.ipynb)
 
 ## Conclusion
 
